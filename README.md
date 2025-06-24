@@ -50,7 +50,7 @@ public class Adrian
 | Language | Proficiency |
 | -------- | ----------- |
 | Polish   | Native      |
-| English  | C1          |
+| English  | B2          |
 | German   | B2          |
 
 ---
