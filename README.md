@@ -45,6 +45,16 @@ public class Adrian
 
 ---
 
+## 🌐 Languages
+
+| Language | Proficiency |
+| -------- | ----------- |
+| Polish   | Native      |
+| English  | C1          |
+| German   | B2          |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer               | Primary Tools & Frameworks                        | Highlights                             |
